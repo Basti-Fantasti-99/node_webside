@@ -1,0 +1,16 @@
+{
+    "name": "mein-node-projekt",
+    "version": "1.0.0",
+    "description": "Ein einfaches Node.js-Projekt mit Express",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    }
+  }
+  
